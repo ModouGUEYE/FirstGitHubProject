@@ -1,2 +1,2 @@
 # FirstGitHubProject
-learn git hup
+## learn git hub
